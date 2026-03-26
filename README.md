@@ -2,6 +2,8 @@ In E-poincare_polynomial.py, we input w in line 39, and determine the smoothness
 
 In Smooth-E.py, we input w and determine the smoothness of X(w_0w) in type E.
 
+In Smooth-F.py, we input w and determine the smoothness of X(w_0w) in type F.
+
 chv1r6180.py is a package.
 
 longest_element.py can return the longest element of a Weyl group. (We use Geck's notation form).
