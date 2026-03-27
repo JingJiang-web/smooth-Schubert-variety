@@ -9,3 +9,5 @@ chv1r6180.py is a package.
 longest_element.py can return the longest element of a Weyl group. (We use Geck's notation form).
 
 In smoothBCD.py, we input the one-line notation of w, and determine the smoothness of X(w).
+
+If w is product of simple reflections, to get one-line notation (classical type), refer to   convert-oneline-notation-to-simple-reflection
