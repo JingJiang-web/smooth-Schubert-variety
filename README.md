@@ -10,5 +10,5 @@ longest_element.py can return the longest element of a Weyl group. (We use Geck'
 
 In smoothBCD.py, we input the one-line notation of w, and determine the smoothness of X(w).
 
-If w is product of simple reflections, to get one-line notation (classical type), refer readers to repository
+If w is the product of simple reflections, to get one-line notation (classical type), we refer readers to repository
   "convert-oneline-notation-to-simple-reflection" to get the file.
